@@ -9,5 +9,6 @@ Inference is performed via variational inference to approximate the posterior of
 
 Some of the results can be seen in the samples folder. An example of fashion-mnist:
 
-![alt text](samples/fashion-mnist_batch128_mid100_epoch47.png)
-
+<p align="center">
+  <img src="samples/fashion-mnist_batch128_mid100_epoch47.png" />
+</p>
